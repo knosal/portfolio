@@ -13,13 +13,27 @@
 
 ## Мои работы:
 
-1. 
-2. Дипломный проект курса «Программист на JavaScript»: «Адаптивная и мобильная верстка»
- https://knosal.github.io/mq-diplom-adaptiv/#0
-- ТЗ : https://github.com/knosal/mq-diploma
-3.
-4.
-5.
+1. [Дипломный проект курса «Профессиональный HTML & CSS»](https://knosal.github.io/122895-device/#)
+![Дипломный проект](img/d1.jpg)
+![Дипломный проект](img/d2.jpg)
+![Диплом](img/has.jpg)
+
+2. [Дипломный проект №1 курса «Программист на JavaScript»: «Адаптивная и мобильная верстка»](https://knosal.github.io/mq-diplom-adaptiv/#0)
+![Дипломный проект](img/ad1.jpg)
+
+3. [Дипломный проект №2 курса «Программист на JavaScript»](https://knosal.github.io/mq-diplom-adaptiv/#0)
+![Дипломный проект](img/js1.jpg)
+![Дипломный проект](img/js2.jpg)
+
+4. [Проект №1](https://knosal.github.io/Mountain/)
+![Сайт](img/m1.jpg)
+![Сайт](img/m2.jpg)
+
+5. [Проект №2](https://knosal.github.io/Culture-news/)
+![Сайт](img/n1.png)
+
+6. [Проект №3](https://knosal.github.io/sportIcndy/)
+![Сайт](img/s1.png)
 
 
-![Аватар](img/avatar.JPG)
+![Аватар](img/avatar.jpg)
