@@ -24,6 +24,7 @@
 ## Мои работы:
 
 1. [Дипломный проект курса «Профессиональный HTML & CSS»](https://knosal.github.io/122895-device/#)
+- [ТЗ](https://docs.google.com/document/d/1NlLHqlPsivmclVfo_pQWcFt8b90jUQW0Tgts6sKEgww/edit?usp=sharing)
 
 ![Дипломный проект](img/d1.jpg)
 
@@ -35,7 +36,7 @@
 
 ![Дипломный проект](img/ad1.jpg)
 
-3. [Дипломный проект №2 курса «Программист на JavaScript»](https://knosal.github.io/mq-diplom-adaptiv/#0)
+3. [Дипломный проект №2 курса «Программист на JavaScript»](https://github.com/knosal/bhj-diploma)
 
 ![Дипломный проект](img/js1.jpg)
 
