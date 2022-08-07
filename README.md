@@ -23,6 +23,7 @@
 ![Диплом](img/has.jpg)
 
 2. [Дипломный проект №1 курса «Программист на JavaScript»: «Адаптивная и мобильная верстка»](https://knosal.github.io/mq-diplom-adaptiv/#0)
+
 ![Дипломный проект](img/ad1.jpg)
 
 3. [Дипломный проект №2 курса «Программист на JavaScript»](https://knosal.github.io/mq-diplom-adaptiv/#0)
