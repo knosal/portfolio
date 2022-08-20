@@ -42,6 +42,8 @@
 
 ![Дипломный проект](img/js2.jpg)
 
+![Диплом](img/Netolog_certificate.jpg)
+
 4. [Проект №1](https://knosal.github.io/Mountain/)
 
 ![Сайт](img/m1.jpg)
