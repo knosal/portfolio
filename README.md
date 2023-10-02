@@ -14,7 +14,9 @@
 - `Email:`	jiupuk2015@yandex.ru
 - `Github`  github.com/knosal
 - `Vk:`		vk.com/v.knosal
-
+- `Telegram:`		@v_knosal
+- `Discord:`		vyacheslavknosal
+    
 ## Навыки:
 1. Углубленные знания Css / HTML5 / JavaScript.
 2. Понимание работы Git / GitHub.
@@ -26,12 +28,6 @@
 1. [Дипломный проект курса «Профессиональный HTML & CSS»](https://knosal.github.io/122895-device/#)
 - [ТЗ](https://docs.google.com/document/d/1NlLHqlPsivmclVfo_pQWcFt8b90jUQW0Tgts6sKEgww/edit?usp=sharing)
 
-![Дипломный проект](img/d1.jpg)
-
-![Дипломный проект](img/d2.jpg)
-
-![Диплом](img/has.jpg)
-
 2. [Дипломный проект №1 курса «Программист на JavaScript»: «Адаптивная и мобильная верстка»](https://knosal.github.io/mq-diplom-adaptiv/#0)
 
 ![Дипломный проект](img/ad1.jpg)
@@ -42,22 +38,9 @@
 
 ![Дипломный проект](img/js2.jpg)
 
-![Диплом](img/Netolog_certificate.jpg)
 
 4. [Проект №1](https://knosal.github.io/Mountain/)
 
-![Сайт](img/m1.jpg)
-
-![Сайт](img/m2.jpg)
-
-
 5. [Проект №2](https://knosal.github.io/Culture-news/)
 
-![Сайт](img/n1.png)
-
 6. [Проект №3](https://knosal.github.io/sportIcndy/)
-
-![Сайт](img/s1.png)
-
-
-
