@@ -30,17 +30,38 @@
 
 ### Лендинг:
 1. [Верстка лендинга "Masa"](https://knosal.github.io/Accelerator-masa/) | [Проект на Github](https://github.com/knosal/Accelerator-masa)  
+
+
+
 2. [Верстка лендинга "Петешествия"](https://knosal.github.io/LifeTour/) | [Проект на Github](https://github.com/knosal/LifeTour)  
+
+
+
 3. [Верстка лендинга "Фитнес"](https://knosal.github.io/fitness_2.0/) | [Проект на Github](https://github.com/knosal/fitness_2.0)  
-4. [Верстка лендинга "Интернет-магазин напитков"](https://knosal.github.io/122895-grading/) | [Проект на Github](https://github.com/knosal/122895-grading)   
+
+
+
+4. [Верстка лендинга "Магазин напитков"](https://knosal.github.io/122895-grading/) | [Проект на Github](https://github.com/knosal/122895-grading)   
+
+    ![Drink](https://github.com/knosal/portfolio/assets/35274816/0c1c310e-dce2-4441-a31b-a11f10c69711)
+
 5. [Верстка лендинга "Блог"](https://knosal.github.io/mq-diplom-adaptiv/) | [Проект на Github](https://github.com/knosal/mq-diplom-adaptiv)
-![Дипломный проект №1 курса «Программист на JavaScript»: «Адаптивная и мобильная верстка»](img/ad1.jpg)
-7. [Верстка лендинга ""](https://knosal.github.io/sportIcndy/) | [Проект на Github](https://github.com/knosal/sportIcndy)
+
+    ![Дипломный проект №1 курса «Программист на JavaScript»: «Адаптивная и мобильная верстка»](img/ad1.jpg)
+
+7. [Верстка лендинга "Фирменные товары ICNDY"](https://knosal.github.io/sportIcndy/) | [Проект на Github](https://github.com/knosal/sportIcndy)
 
 ### Интернет-магазин:
-8. [Верстка  Интернет-магазина "Устройства"](https://knosal.github.io/122895-device/) | [Проект на Github]()
-9. [Верстка Интернет-магазина "Мороженное"](https://knosal.github.io/122895-gllacy-35/) | [Проект на Github](https://github.com/knosal/122895-gllacy-35)
-10. [Верстка Интернет-магазина "Мишка"](https://knosal.github.io/122895-mishka-27/index.html) | [Проект на Github](https://github.com/knosal/122895-mishka-27) 
+1. [Верстка  Интернет-магазина "Устройства"](https://knosal.github.io/122895-device/) | [Проект на Github]()
+
+
+2. [Верстка Интернет-магазина "Мороженное"](https://knosal.github.io/122895-gllacy-35/) | [Проект на Github](https://github.com/knosal/122895-gllacy-35)
+
+    ![Глейси](https://github.com/knosal/portfolio/assets/35274816/ea44100d-72d0-4dc3-95a5-fae60bb29d6b)
+
+3. [Верстка Интернет-магазина "Мишка"](https://knosal.github.io/122895-mishka-27/index.html) | [Проект на Github](https://github.com/knosal/122895-mishka-27) 
+    ![Мишка](https://github.com/knosal/portfolio/assets/35274816/9a770a37-d7db-4ca6-8d9d-c46187853c05)
+
 
 ### JS-проекты:
 1. [Приложение для управления финансами "ManeyManager"](https://knosal.github.io/bhj-diploma/) | [Проект на Github](https://github.com/knosal/bhj-diploma)
@@ -58,6 +79,6 @@
 
    Приложение позволяет рассчитать индивидуальную суточную норму калорий. Интерфейс состоит из формы с полями ввода и блока для вывода результата. В эталонной реализации используются нативные браузерные API.
    
-4. [Одностраничное приложение "Сайт объявлений"]() | [Проект на Github]()
+5. [Одностраничное приложение "Сайт объявлений"]() | [Проект на Github]()
 
    Одностраничное приложение на JavaScript, которое будет работать в браузере — список объявлений о продаже товаров и модальное окно с подробной информацией о каждом товаре. Приложение позволяет выбрать товары разных категорий, отфильтровать их по цене и другим характеристикам, отсортировать, добавить в избранное, открыть подробное объявление с описанием каждого товара. Интерфейс интернет-магазина включает в себя страницу с объявлениями, HTML-форму с фильтрами, модальное окно для вывода подробной информации о товаре. Чтобы получить информацию о товарах, вам нужно будет запрограммировать загрузку данных с сервера. В эталонной реализации используются нативные браузерные API.
