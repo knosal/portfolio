@@ -1,6 +1,6 @@
 # Кносаль Вячеслав Михайлович
 
-  <img src="https://github.com/knosal/portfolio/assets/35274816/93b321d0-3cae-49ec-9332-01040bbf23bd" width="300" />
+  <img src="https://github.com/knosal/portfolio/assets/35274816/93b321d0-3cae-49ec-9332-01040bbf23bd" width="200" />
   
 ## Обо мне:
 
