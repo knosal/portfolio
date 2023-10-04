@@ -31,11 +31,11 @@
 ### Лендинг:
 1. [Верстка лендинга "Masa"](https://knosal.github.io/Accelerator-masa/) | [Проект на Github](https://github.com/knosal/Accelerator-masa)  
 
-
+    ![Маса](https://github.com/knosal/portfolio/assets/35274816/82c87766-4224-4b03-b1e5-59954852f8a4)
 
 2. [Верстка лендинга "Петешествия"](https://knosal.github.io/LifeTour/) | [Проект на Github](https://github.com/knosal/LifeTour)  
 
-
+    ![Путешествия](https://github.com/knosal/portfolio/assets/35274816/9ba3bf02-11a3-4b96-907c-7af7b220e683)
 
 3. [Верстка лендинга "Фитнес"](https://knosal.github.io/fitness_2.0/) | [Проект на Github](https://github.com/knosal/fitness_2.0)  
 
@@ -51,11 +51,12 @@
 
 7. [Верстка лендинга "Фирменные товары ICNDY"](https://knosal.github.io/sportIcndy/) | [Проект на Github](https://github.com/knosal/sportIcndy)
 
-   
+   ![Uploading icndy-freebie-psd.png…]()
 
 ### Интернет-магазин:
 1. [Верстка  Интернет-магазина "Устройства"](https://knosal.github.io/122895-device/) | [Проект на Github]()
 
+    ![DEvice](https://github.com/knosal/portfolio/assets/35274816/75941f86-a02a-49a3-8e6b-c60641f40d70)
 
 2. [Верстка Интернет-магазина "Мороженное"](https://knosal.github.io/122895-gllacy-35/) | [Проект на Github](https://github.com/knosal/122895-gllacy-35)
 
@@ -89,4 +90,4 @@
 
    Одностраничное приложение на JavaScript, которое будет работать в браузере — список объявлений о продаже товаров и модальное окно с подробной информацией о каждом товаре. Приложение позволяет выбрать товары разных категорий, отфильтровать их по цене и другим характеристикам, отсортировать, добавить в избранное, открыть подробное объявление с описанием каждого товара. Интерфейс интернет-магазина включает в себя страницу с объявлениями, HTML-форму с фильтрами, модальное окно для вывода подробной информации о товаре. Чтобы получить информацию о товарах, вам нужно будет запрограммировать загрузку данных с сервера. В эталонной реализации используются нативные браузерные API.
 
-   
+   ![Объявления](https://github.com/knosal/portfolio/assets/35274816/6dbc8858-3fb3-42b3-bf43-5679e9492d5e)
