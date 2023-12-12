@@ -15,7 +15,7 @@
 - JS (ES5, ES6)
 - методология BEM
 - Git
-- Gulp, Webpuck
+- Gulp, webpack
 - Figma
 - различные плагины и библиотеки
 
